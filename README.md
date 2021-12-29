@@ -33,4 +33,6 @@ log.Printf("Using https + self signed approach")
     }()
 ```
 
-## Pending: Better documentation
+## Pending
+
+ Better documentation
